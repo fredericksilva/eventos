@@ -12,6 +12,10 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 - [2015 - Estados Unidos](https://angularu.com/ng/)
 
+## Axis Xap Digital
+
+- [2015 - França](http://www.axiscapdigitalparis.com/)
+
 ### Bloomberg Technology Conference
 
 - [2015 - Estados Unidos](www.bloomberg.com/btech2015/)
@@ -245,6 +249,10 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 - [2015 - Estados Unidos](http://www.meetup.com/Southeast-Magento-Meetup/events/222509804)
 
+### Solid - The O’Reilly Internet of Things Conference
+
+- [2015 - Estados Unidos](http://solidcon.com/internet-of-things-2015)
+
 ### Smashing Conf
 
 - [2015 - Espanha](http://www.smashingconf.com/barcelona-2015/)
@@ -256,6 +264,10 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 ### You gott a love Frontend
 
 - [2015 - Israel](http://yougottalovefrontend.com/)
+
+### WIRED Money 2015
+
+- [2015 - Londres](http://www.wiredevent.co.uk/wired-money-2015)
 
 ### WPC
 
