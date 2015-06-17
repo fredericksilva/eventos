@@ -8,6 +8,10 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 ## Lita de eventos
 
+### Agile
+
+- [2015 - Brasil](http://www.agilebrazil.com/2015/)
+
 ### Angular U
 
 - [2015 - Estados Unidos](https://angularu.com/ng/)
