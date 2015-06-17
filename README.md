@@ -32,6 +32,10 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 - [2015 - Austria](https://conc.at/)
 
+### Cascadia Fest
+
+- [2015 - Estados Unidos](http://2015.cascadiajs.com/)
+
 ### Corra Forum
 
 - [2015 - Estados Unidos](http://corra.com/2015-corra-forum-los-angeles)
@@ -51,6 +55,10 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 ### E-Commerce
 
 - [2015 - França](http://en.ecommerceparis.com/)
+
+### Empirejs
+
+- [2015 - Estados Unidos](http://empirejs.org)
 
 ### E3
 
