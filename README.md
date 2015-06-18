@@ -166,6 +166,10 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 - [2015 - Estados Unidos](https://hashiconf.com/)
 
+### HTML Magazin
+
+- [2015 - Turquia](http://htmlmag.com/etkinlik/the-frontiers-mini)
+
 ### infoShare
 
 - [2015 - Polônia](htt://theinfoshare.org)
