@@ -12,6 +12,10 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 - [2015 - Brasil](http://www.agilebrazil.com/2015/)
 
+### Anglebrackets
+
+- [2015 - Estados Unidos](https://anglebrackets.org/)
+
 ### Angular U
 
 - [2015 - Estados Unidos](https://angularu.com/ng/)
