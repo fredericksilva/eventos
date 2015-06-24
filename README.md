@@ -285,6 +285,10 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 - [2015 - Israel](http://yougottalovefrontend.com/)
 
+### WEB UNLEASHED 
+
+- [2015 - Canada](https://www.eventbrite.ca/e/web-unleashed-2015-tickets-16731856433?discount=JSFiddle&utm_medium=email&utm_source=jsfiddle)
+
 ### WIRED Money 2015
 
 - [2015 - Londres](http://www.wiredevent.co.uk/wired-money-2015)
